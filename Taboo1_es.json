@@ -49,7 +49,7 @@
         "02108-t": {
             "name": "Batidor",
             "front": {
-                "flavor_text": "Los amantes del terror frecuentan los lugares misteriosos y remotos. <cite>H. P. Lovecraft, \"La l\u00e1mina de la casa\"</cite>",
+                "flavor_text": "Los amantes del terror frecuentan los lugares misteriosos y remotos. \nH. P. Lovecraft, \"La l\u00e1mina de la casa\"",
                 "text": "Encadenado (+1 Experiencia).\n<free> Durante tu turno, si no est\u00e1s enfrentado a ning\u00fan Enemigo, agota el <name>: Mu\u00e9vete a un Lugar conectado.",
                 "traits": "Talento."
             }
