@@ -19,7 +19,7 @@
         "01073-t": {
             "name": "Reutilizar",
             "front": {
-                "text": "Encadenado (+2 Experiencia).\n<reaction> Despu\u00e9s de que investigues con \u00e9xito por 2 o m\u00e1s, agota <name>: Elige 1 carta <t>Objeto</t> de tu pila de descartes y a\u00f1\u00e1dela a tu mano.",
+                "text": "Encadenada (+2 de experiencia).\n<reaction> Despu\u00e9s de que investigues con \u00e9xito por 2 o m\u00e1s, agota <name>: Elige 1 carta <t>Objeto</t> de tu pila de descartes y a\u00f1\u00e1dela a tu mano.",
                 "traits": "Talento."
             }
         },
@@ -49,8 +49,8 @@
         "02108-t": {
             "name": "Batidor",
             "front": {
-                "flavor_text": "Los amantes del terror frecuentan los lugares misteriosos y remotos. \nH. P. Lovecraft, \"La l\u00e1mina de la casa\"",
-                "text": "Encadenado (+1 Experiencia).\n<free> Durante tu turno, si no est\u00e1s enfrentado a ning\u00fan Enemigo, agota el <name>: Mu\u00e9vete a un Lugar conectado.",
+                "flavor_text": "Los amantes del terror frecuentan los lugares misteriosos y remotos. \n<right>--H. P. Lovecraft, \"La l\u00e1mina de la casa\"",
+                "text": "Encadenada (+1 de experiencia).\n<free> Durante tu turno, si no est\u00e1s enfrentado a ning\u00fan Enemigo, agota el <name>: Mu\u00e9vete a un Lugar conectado.",
                 "traits": "Talento."
             }
         },
@@ -108,7 +108,7 @@
         "02300-t": {
             "name": "Asesino de monstruos",
             "front": {
-                "text": "Desencadenado (-2 Experiencia).\n<b>Combatir.</b> Si este ataque tiene \u00e9xito contra un Enemigo que no sea <t>\u00c9lite</t>, derrota a ese Enemigo.",
+                "text": "Desencadenada (-2 de experiencia).\n<b>Combatir.</b> Si este ataque tiene \u00e9xito contra un Enemigo que no sea <t>\u00c9lite</t>, derrota a ese Enemigo.",
                 "traits": "Esp\u00edritu."
             }
         },
@@ -183,7 +183,7 @@
         "04305-t": {
             "name": "Lanzallamas",
             "front": {
-                "text": "Encadenado (+1 Experiencia).\nUsos (4 municiones).\n<action> Gasta 1 munici\u00f3n: <b>Combatir.</b> El Enemigo elegido para este ataque debe ser el Enemigo enfrentado a ti con el valor de combate m\u00e1s alto. Recibes +4 [combat] para este ataque. Si este ataque tiene \u00e9xito, en lugar de su da\u00f1o est\u00e1ndar puedes asignar hasta 4 puntos de da\u00f1o entre Enemigos enfrentados a ti <em>(cualquier da\u00f1o adicional se suma a este total)</em>.",
+                "text": "Encadenada (+1 de experiencia). Usos (4 municiones).\n<action> Gasta 1 munici\u00f3n: <b>Combatir.</b> El Enemigo elegido para este ataque debe ser el Enemigo enfrentado a ti con el valor de combate m\u00e1s alto. Recibes +4 [combat] para este ataque. Si este ataque tiene \u00e9xito, en lugar de su da\u00f1o est\u00e1ndar puedes asignar hasta 4 puntos de da\u00f1o entre Enemigos enfrentados a ti <i>(cualquier da\u00f1o adicional se suma a este total)</i>.",
                 "traits": "Objeto. Arma. Arma de fuego."
             }
         },
@@ -242,7 +242,7 @@
         "05159-t": {
             "name": "Apurando",
             "front": {
-                "text": "Encadenado (+3 Experiencia).\n<reaction> Cuando inicies una prueba de habilidad, agota <name>: Aumenta en 2 la dificultad de esta prueba. Obt\u00e9n 2 recursos o roba 1 carta.",
+                "text": "Encadenada (+3 de experiencia).\n<reaction> Cuando inicies una prueba de habilidad, agota <name>: Aumenta en 2 la dificultad de esta prueba. Obt\u00e9n 2 recursos o roba 1 carta.",
                 "traits": "Talento."
             }
         },
@@ -271,7 +271,7 @@
             "name": "El conocimiento es poder",
             "front": {
                 "flavor_text": "\u2026y el poder corrompe.",
-                "text": "Encadenado (+2 Experiencia).\nR\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\nElige un Apoyo <t>Tomo</t> o <t>Hechizo</t> que controles, o revela un Apoyo <t>Tomo</t> o <t>Hechizo</t> de tu mano. Resuelve una capacidad <action> o <free> de ese Apoyo, ignorando todos los costes <em>(incluido su coste <action> si lo tiene).</em> A continuaci\u00f3n, si ese Apoyo estaba en tu mano, puedes descartarlo para robar 1 carta.",
+                "text": "EncadenadaEl (+2 de experiencia).\nR\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\nElige un Apoyo <t>Tomo</t> o <t>Hechizo</t> que controles, o revela un Apoyo <t>Tomo</t> o <t>Hechizo</t> de tu mano. Resuelve una capacidad <action> o <free> de ese Apoyo, ignorando todos los costes <i>(incluido su coste <action> si lo tiene).</i> A continuaci\u00f3n, si ese Apoyo estaba en tu mano, puedes descartarlo para robar 1 carta.",
                 "traits": "Inspiraci\u00f3n."
             }
         },
@@ -321,7 +321,7 @@
         "06332-t": {
             "name": "Reutilizar",
             "front": {
-                "text": "Encadenado (+2 Experiencia).\n<reaction> Despu\u00e9s de que investigues con \u00e9xito por 2 o m\u00e1s, agota <name>: Elige 1 carta <t>Objeto</t> de tu pila de descartes y a\u00f1\u00e1dela a tu mano o ju\u00e9gala <i>(pagando su coste)</i>.",
+                "text": "Encadenada (+2 de experiencia).\n<reaction> Despu\u00e9s de que investigues con \u00e9xito por 2 o m\u00e1s, agota <name>: Elige 1 carta <t>Objeto</t> de tu pila de descartes y a\u00f1\u00e1dela a tu mano o ju\u00e9gala <i>(pagando su coste)</i>.",
                 "traits": "Talento."
             }
         },
@@ -342,7 +342,7 @@
         "07197-t": {
             "name": "Se\u00f1al de la cruz",
             "front": {
-                "text": "Desencadenado (-2 Experiencia).\nAsigna esta carta solo a una prueba de habilidad que est\u00e9s realizando, y solo si la dificultad de dicha prueba es mayor que el valor b\u00e1sico de tu habilidad.\nDespu\u00e9s de que asignes la <name> a una prueba de habilidad, a\u00f1ade X fichas <blessing> a la bolsa de caos. X es la diferencia entre la dificultad de la prueba y el valor b\u00e1sico de tu habilidad.",
+                "text": "Desencadenada (-2 de experiencia).\nAsigna esta carta solo a una prueba de habilidad que est\u00e9s realizando, y solo si la dificultad de dicha prueba es mayor que el valor b\u00e1sico de tu habilidad.\nDespu\u00e9s de que asignes la <name> a una prueba de habilidad, a\u00f1ade X fichas <blessing> a la bolsa de caos. X es la diferencia entre la dificultad de la prueba y el valor b\u00e1sico de tu habilidad.",
                 "traits": "Experimentado. Bendecido."
             }
         },
@@ -371,7 +371,7 @@
         "07308-t": {
             "name": "Rito de equilibrio",
             "front": {
-                "text": "Desencadenado (-2 Experiencia).\nElige una sola opci\u00f3n:\n- A\u00f1ade X fichas <curse> a la bolsa de caos para a\u00f1adir X fichas <blessing> a la bolsa de caos.\n- Retira X fichas <curse> y X fichas <blessing> de la bolsa de caos para curar un total de X puntos de horror entre cartas que est\u00e9n en tu Lugar.",
+                "text": "Desencadenada (-2 de experiencia).\nElige una sola opci\u00f3n:\n- A\u00f1ade X fichas <curse> a la bolsa de caos para a\u00f1adir X fichas <blessing> a la bolsa de caos.\n- Retira X fichas <curse> y X fichas <blessing> de la bolsa de caos para curar un total de X puntos de horror entre cartas que est\u00e9n en tu Lugar.",
                 "traits": "Hechizo. Bendecido. Maldito."
             }
         },
@@ -426,7 +426,7 @@
         "08099-t": {
             "front": {
                 "subtitle": "Exploradora intr\u00e9pida",
-                "text": "Encadenado (+2 Experiencia).\nRecibes +1 [intellect] y +1 [agility].\n<reaction> Durante tu turno, despu\u00e9s de que te muevas a un Lugar, agota a <name>: Mueve una pista o un Enemigo que no sea <t>\u00c9lite</t> de un Lugar conectado a tu Lugar o viceversa.",
+                "text": "Encadenada (+2 de experiencia).\nRecibes +1 [intellect] y +1 [agility].\n<reaction> Durante tu turno, despu\u00e9s de que te muevas a un Lugar, agota a <name>: Mueve una pista o un Enemigo que no sea <t>\u00c9lite</t> de un Lugar conectado a tu Lugar o viceversa.",
                 "traits": "Aliado. Viajero."
             }
         },
@@ -475,7 +475,7 @@
         "09077-t": {
             "name": "Mercado de los bajos fondos",
             "front": {
-                "text": "Encadenado (+2 Experiencia).\nPermanente. Excepcional. Recibes +10 al tama\u00f1o de mazo.\n<reaction> Antes de robar tu mano inicial, elige 10 cartas <t>Ilegal</t> de tu mazo: Bar\u00e1jalas y col\u00f3calas junto al <name>, formando tu mazo de Mercado.\n<reaction> Al comienzo de tu turno: Revela las 2 primeras cartas de tu mazo de Mercado. Puedes gastar 1 recurso para robar 1 de ellas. Coloca el resto en la parte inferior, en cualquier orden.",
+                "text": "Encadenada (+2 de experiencia).\nPermanente. Excepcional. Recibes +10 al tama\u00f1o de mazo.\n<reaction> Antes de robar tu mano inicial, elige 10 cartas <t>Ilegal</t> de tu mazo: Bar\u00e1jalas y col\u00f3calas junto al <name>, formando tu mazo de Mercado.\n<reaction> Al comienzo de tu turno: Revela las 2 primeras cartas de tu mazo de Mercado. Puedes gastar 1 recurso para robar 1 de ellas. Coloca el resto en la parte inferior, en cualquier orden.",
                 "traits": "Contacto. Ilegal."
             }
         },
@@ -489,14 +489,14 @@
         "09108-t": {
             "name": "Alumbrar",
             "front": {
-                "text": "Encadenado (+2 Experiencia).\nR\u00e1pido. Juega esta carta antes de revelar una ficha de Caos durante una investigaci\u00f3n que est\u00e9s realizando, y s\u00f3lo si la dificultad de esta prueba es 0 actualmente.\n Esta prueba tiene \u00e9xito autom\u00e1ticamente. Descubres 1 pista adicional en este Lugar y 1 pista adicional en cualquier Lugar.",
+                "text": "Encadenada (+2 de experiencia).\nR\u00e1pido. Juega esta carta antes de revelar una ficha de Caos durante una investigaci\u00f3n que est\u00e9s realizando, y s\u00f3lo si la dificultad de esta prueba es 0 actualmente.\n Esta prueba tiene \u00e9xito autom\u00e1ticamente. Descubres 1 pista adicional en este Lugar y 1 pista adicional en cualquier Lugar.",
                 "traits": "Inspiraci\u00f3n. Truco."
             }
         },
         "09117-t": {
             "name": "Llavero viejo",
             "front": {
-                "text": "Encadenado (+1 Experiencia).\nUsos (3 llaves). Si no hay llaves en el <name>, desc\u00e1rtalo.\n<action>: <b>Investigar.</b> Tu Lugar recibe -2 a velo para esta investigaci\u00f3n. Si tienes \u00e9xito, retira 1 llave del <name> y, si la dificultad de esta prueba es 0, descubres 1 pista adicional.",
+                "text": "Encadenada (+1 de experiencia).\nUsos (3 llaves). Si no hay llaves en el <name>, desc\u00e1rtalo.\n<action>: <b>Investigar.</b> Tu Lugar recibe -2 a velo para esta investigaci\u00f3n. Si tienes \u00e9xito, retira 1 llave del <name> y, si la dificultad de esta prueba es 0, descubres 1 pista adicional.",
                 "traits": "Objeto. Herramienta."
             }
         },
@@ -519,14 +519,14 @@
         "10031-t": {
             "name": "Mano dura",
             "front": {
-                "text": "Encadenado (+1 Experiencia).\nMientras <name> est\u00e9 asignada a un ataque que use un Apoyo <t>Cuerpo a cuerpo</t> o <t>A distancia</t>, este ataque inflige +1 da\u00f1o. Despu\u00e9s de revelar fichas de Caos para esta prueba de habilidad, puedes recibir 1 punto de da\u00f1o para cancelar una de esas fichas de Caos, devolverla a la bolsa de caos y revelar una nueva <i>(puedes hacer esto cualquier n\u00famero de veces.)</i>",
+                "text": "Encadenada (+1 de experiencia).\nMientras <name> est\u00e9 asignada a un ataque que use un Apoyo <t>Cuerpo a cuerpo</t> o <t>A distancia</t>, este ataque inflige +1 de da\u00f1o. Despu\u00e9s de revelar fichas de Caos para esta prueba de habilidad, puedes recibir 1 punto de da\u00f1o para cancelar una de esas fichas de Caos, devolverla a la bolsa de caos y revelar una nueva <i>(puedes hacer esto cualquier n\u00famero de veces)</i>.",
                 "traits": "Innato."
             }
         },
         "10037-t": {
             "name": "Lluvia de golpes",
             "front": {
-                "text": "Desencadenado (-2 Experiencia).\nJuega esta carta s\u00f3lo si controlas un Apoyo <t>Cuerpo a Cuerpo</t>. Como coste adicional para jugar <name>, gasta una acci\u00f3n.\n<b>Combatir.</b> Elige un Apoyo <t>Cuerpo a Cuerpo</t> que controles y realiza una acci\u00f3n de combatir inmediatamente con ese Apoyo <i>(sin pagar su coste <action>)</i>. Puedes repetir este efecto hasta 3 veces. Despu\u00e9s de que se resuelva el \u00faltimo ataque, si es tu turno, termina tu turno.",
+                "text": "Desencadenada (-2 de experiencia).\nJuega esta carta s\u00f3lo si controlas un Apoyo <t>Cuerpo a Cuerpo</t>. Como coste adicional para jugar <name>, gasta una acci\u00f3n.\n<b>Combatir.</b> Elige un Apoyo <t>Cuerpo a Cuerpo</t> que controles y realiza una acci\u00f3n de combatir inmediatamente con ese Apoyo <i>(sin pagar su coste <action>)</i>. Puedes repetir este efecto hasta 3 veces. Despu\u00e9s de que se resuelva el \u00faltimo ataque, si es tu turno, termina tu turno.",
                 "traits": "T\u00e1ctica. Doble. Predestinado."
             }
         },
@@ -542,7 +542,7 @@
             "name": "Mic\u00f3nido voraz",
             "front": {
                 "subtitle": "Cepa carn\u00edvora",
-                "text": "Encadenado (+1 Experiencia).\nInvestigado. L\u00edmite de 1 por mazo.\n<free>: Busca entre tus cartas enlazadas el Crecimiento prodigioso y a\u00f1\u00e1delo a tu mano. L\u00edmite de una vez por ronda.\n<free> Elige un Enemigo que no sea <t>\u00c9lite</t> en tu Lugar y con una cantidad de salud restante igual o menor que la cantidad de crecimiento del <name>: Derrota a ese Enemigo. Retira todo el crecimiento de <name>.",
+                "text": "Encadenada (+1 de experiencia).\nInvestigado. L\u00edmite de 1 por mazo.\n<free>: Busca entre tus cartas enlazadas el Crecimiento prodigioso y a\u00f1\u00e1delo a tu mano. L\u00edmite de una vez por ronda.\n<free> Elige un Enemigo que no sea <t>\u00c9lite</t> en tu Lugar y con una cantidad de salud restante igual o menor que la cantidad de crecimiento del <name>: Derrota a ese Enemigo. Retira todo el crecimiento de <name>.",
                 "traits": "Monstruo. Ciencia."
             }
         },
@@ -550,7 +550,7 @@
             "name": "Vara de Carnamagos",
             "front": {
                 "subtitle": "Cetro del vidente loco",
-                "text": "Encadenado (+2 Experiencia).\nL\u00edmite de 1 por mazo.\n<free> Elige un Enemigo que no sea <t>\u00c9lite</t> en cualquier Lugar y agota la <name>: Revela 5 fichas de caos aleatorias de la bolsa de caos. Si es revelada una ficha <curse>, busca entre tus cartas enlazadas un Evento <t>Putrefacci\u00f3n</t> aleatorio y vinc\u00falaselo a ese Enemigo.",
+                "text": "Encadenada (+2 de experiencia).\nL\u00edmite de 1 por mazo.\n<free> Elige un Enemigo que no sea <t>\u00c9lite</t> en cualquier Lugar y agota la <name>: Revela 5 fichas de caos aleatorias de la bolsa de caos. Si es revelada una ficha <curse>, busca entre tus cartas enlazadas un Evento <t>Putrefacci\u00f3n</t> aleatorio y vinc\u00falaselo a ese Enemigo.",
                 "traits": "Objeto. Reliquia. Ocultismo. Maldito."
             }
         },
@@ -558,22 +558,22 @@
             "name": "Vara de Carnamagos",
             "front": {
                 "subtitle": "Cetro del vidente loco",
-                "text": "Encadenado (+2 Experiencia).\n<free> Elige un Enemigo que no sea <t>\u00c9lite</t> en cualquier Lugar y agota la <name>: revela 5 fichas de caos aleatorias de la bolsa de caos. Por cada ficha <curse> revelada, puedes buscar entre tus cartas enlazadas un Evento <t>Putrefacci\u00f3n</t> y vincul\u00e1rselo a ese Enemigo.",
+                "text": "Encadenada (+2 de experiencia).\n<free> Elige un Enemigo que no sea <t>\u00c9lite</t> en cualquier Lugar y agota la <name>: revela 5 fichas de caos aleatorias de la bolsa de caos. Por cada ficha <curse> revelada, puedes buscar entre tus cartas enlazadas un Evento <t>Putrefacci\u00f3n</t> y vincul\u00e1rselo a ese Enemigo.",
                 "traits": "Objeto. Reliquia. Ocultismo. Maldito."
             }
         },
         "11031-t": {
             "name": "Disparo r\u00e1pido",
             "front": {
-                "flavor_text": "Hay un buen motivo por el que la hermana Sof\u00eda es conocida como \"la mano de Dios.\"",
-                "text": "Desencadenado (-2 Experiencia).\nMir\u00edada. R\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\nInflige 1 punto de da\u00f1o a un Enemigo que est\u00e9 en tu Lugar.\n<reaction> Despu\u00e9s de que robes el <name> durante tu turno: Ju\u00e9galo, reduciendo su coste de recursos en 2.",
+                "flavor_text": "Hay un buen motivo por el que la hermana Sof\u00eda es conocida como \"la mano de Dios\".",
+                "text": "Desencadenada (-2 de experiencia).\nMir\u00edada. R\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\nInflige 1 punto de da\u00f1o a un Enemigo que est\u00e9 en tu Lugar.\n<reaction> Despu\u00e9s de que robes el <name> durante tu turno: Ju\u00e9galo, reduciendo su coste de recursos en 2.",
                 "traits": "Esp\u00edritu."
             }
         },
         "11055-t": {
             "name": "A la calle",
             "front": {
-                "text": "Encadenado (+1 Experiencia).\n<b>Evitar.</b> A\u00f1ade tu valor de [combat] a tu valor de habilidad para este intento de evitar. Si tienes \u00e9xito por 2 o m\u00e1s, inflige 1 punto de da\u00f1o a ese Enemigo. Si ese Enemigo no es <t>\u00c9lite</t>, puedes moverlo a un Lugar conectado.",
+                "text": "Encadenada (+1 de experiencia).\n<b>Evitar.</b> A\u00f1ade tu valor de [combat] a tu valor de habilidad para este intento de evitar. Si tienes \u00e9xito por 2 o m\u00e1s, inflige 1 punto de da\u00f1o a ese Enemigo. Si ese Enemigo no es <t>\u00c9lite</t>, puedes moverlo a un Lugar conectado.",
                 "traits": "T\u00e1ctica. Truco."
             }
         },
@@ -602,7 +602,7 @@
             "front": {
                 "flavor_text": "\"Publica o fallece, me dijeron. Tal vez haga ambas cosas.\"",
                 "subtitle": "Conferenciante atribulado",
-                "text": "Desencadenado (-2 Experiencia).\nS\u00f3lo para un mazo <t>Ayudante</t>, <t>Reportero</t>, <t>Erudito</t>. Usos (4 secretos).\nRecibes +1 [intellect].\nLos secretos de los Apoyos que controles se pueden gastar como recursos para pagar Eventos <t>Inspiraci\u00f3n</t> que juegues.",
+                "text": "Desencadenada (-2 de Experiencia). S\u00f3lo para un mazo <t>Ayudante</t>, <t>Reportero</t>, <t>Erudito</t>. \nUsos (4 secretos). Recibes +1 [intellect].\nLos secretos de los Apoyos que controles se pueden gastar como recursos para pagar Eventos <t>Inspiraci\u00f3n</t> que juegues.",
                 "traits": "Aliado."
             }
         },
@@ -638,7 +638,7 @@
         "60327-t": {
             "name": "Tirador de primera",
             "front": {
-                "text": "Desencadenado (-1 Experiencia).\n<reaction> Cuando uses una capacidad <b>Combatir</b> de un Apoyo <t>Arma de fuego</t>, agota <name>: Elige una o ambas opciones:\n\u2014 Este ataque usa [agility] en lugar de [combat]. Todos los modificadores a tu [combat] para este ataque modifican tu [agility] en su lugar.\n- Usa el valor de evitar del Enemigo atacado para este ataque en lugar de su valor de combatir.",
+                "text": "Desencadenada (-1 de experiencia).\n<reaction> Cuando uses una capacidad <b>Combatir</b> de un Apoyo <t>Arma de fuego</t>, agota <name>: Elige una o ambas opciones:\n- Este ataque usa [agility] en lugar de [combat]. Todos los modificadores a tu [combat] para este ataque modifican tu [agility] en su lugar.\n- Usa el valor de evitar del Enemigo atacado para este ataque en lugar de su valor de combatir.",
                 "traits": "Talento."
             }
         },
