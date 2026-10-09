@@ -271,7 +271,7 @@
             "name": "El conocimiento es poder",
             "front": {
                 "flavor_text": "\u2026y el poder corrompe.",
-                "text": "EncadenadaEl (+2 de experiencia).\nR\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\nElige un Apoyo <t>Tomo</t> o <t>Hechizo</t> que controles, o revela un Apoyo <t>Tomo</t> o <t>Hechizo</t> de tu mano. Resuelve una capacidad <action> o <free> de ese Apoyo, ignorando todos los costes <i>(incluido su coste <action> si lo tiene).</i> A continuaci\u00f3n, si ese Apoyo estaba en tu mano, puedes descartarlo para robar 1 carta.",
+                "text": "Encadenada (+2 de experiencia).\nR\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\nElige un Apoyo <t>Tomo</t> o <t>Hechizo</t> que controles, o revela un Apoyo <t>Tomo</t> o <t>Hechizo</t> de tu mano. Resuelve una capacidad <action> o <free> de ese Apoyo, ignorando todos los costes <i>(incluido su coste <action> si lo tiene).</i> A continuaci\u00f3n, si ese Apoyo estaba en tu mano, puedes descartarlo para robar 1 carta.",
                 "traits": "Inspiraci\u00f3n."
             }
         },
