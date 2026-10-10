@@ -87,7 +87,7 @@
         "02153-t": {
             "name": "Mirada hipn\u00f3tica",
             "front": {
-                "text": "Mutada. R\u00e1pido. Juega esta carta cuando un Enemigo ataque a un investigador que est\u00e9 en tu Lugar.\nCancela el ataque. A continuaci\u00f3n, revela una ficha aleatoria de la bolsa de caos. Si tiene un s\u00edmbolo inflige el da\u00f1o del Enemigo atacante a s\u00ed mismo.",
+                "text": "Mutada. R\u00e1pido. Juega esta carta cuando un Enemigo ataque a un investigador que est\u00e9 en tu Lugar.\nCancela el ataque. A continuaci\u00f3n, revela una ficha aleatoria de la bolsa de caos. Si tiene un s\u00edmbolo, inflige el da\u00f1o del Enemigo atacante a s\u00ed mismo.",
                 "traits": "Hechizo."
             }
         },
