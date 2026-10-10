@@ -56,7 +56,7 @@
         "02026-t": {
             "name": "Doble o nada",
             "front": {
-                "text": "Prohibida. M\u00e1ximo de 1 asignada por prueba de habilidad.\nDobla la dificultad de esta prueba de habilidad. Si esta prueba de habilidad tiene \u00e9xito, resuelve dos veces los efectos de la prueba con \u00e9xito.",
+                "text": "Prohibida. \nM\u00e1ximo de 1 asignada por prueba de habilidad.\nDobla la dificultad de esta prueba de habilidad. Si esta prueba de habilidad tiene \u00e9xito, resuelve dos veces los efectos de la prueba con \u00e9xito.",
                 "traits": "Fortuna."
             }
         },
@@ -116,7 +116,7 @@
         "02266-t": {
             "name": "As en la manga",
             "front": {
-                "text": "Mutada. Excepcional. R\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\nPuedes realizar 3 acciones adicionales en este turno. M\u00e1ximo de una vez por ronda.",
+                "text": "Mutada. \nExcepcional. R\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\nPuedes realizar 3 acciones adicionales en este turno. M\u00e1ximo de una vez por ronda.",
                 "traits": "Truco."
             }
         },
@@ -140,10 +140,33 @@
                 "flavor_text": "Puede que este sea su regreso triunfal.",
                 "subtitle": "La actriz",
                 "text": "Mutada.\nS\u00f3lo puedes jugar, asignar o activar capacidades de cartas neutrales o de cartas de tu papel.\n<free>: Cambia tu papel. L\u00edmite de una vez por ronda.\n<action>: Cambia tu papel. Esta acci\u00f3n no provoca ataques de oportunidad.\nEfecto <elder_sign>: +2. Puedes cambiar de papel.",
-                "traits": "Artista."
+                "traits": "Int\u00e9rprete."
             },
             "back": {
-                "flavor_text": "Lola ha actuado en recintos llenos hasta la bandera de todo el mundo, pero ninguna obra ha sido tan perturbadora y extra\u00f1a como El Rey de Amarillo. Todo lo que la rodea tra\u00eda calamidades y terror, incluso durante los ensayos. Cuando encontraron a M\u00edriam, su coprotagonista, flotando muerta en el Sena, Lola decidi\u00f3 que ya hab\u00eda tenido suficiente y le escribi\u00f3 una carta al director explic\u00e1ndole que la pr\u00f3xima actuaci\u00f3n ser\u00eda la \u00faltima en la que ella tomar\u00eda parte. Ahora vuelve a casa, a Arkham, para un \u00faltimo espect\u00e1culo, con la esperanza de poder librarse por fin de esta temible obra."
+                "entries": [
+                    [
+                        "<b>Tama\u00f1o de mazo:</b>",
+                        "35."
+                    ],
+                    [
+                        "<b>Opciones de creaci\u00f3n de mazos:</b>",
+                        "Cartas Superviviente, Guardi\u00e1n, Buscador, Rebelde y M\u00edstico (<survivor>, <guardian>, <seeker>, <rogue>, y <mystic>) de nivel 0-3, cartas neutrales de nivel 0-5."
+                    ],
+                    [
+                        "<b>Requisitos de creaci\u00f3n de mazos</b> (no cuentan para el tama\u00f1o de mazo):",
+                        "2 copias de Improvisaci\u00f3n, 2 copias de Crisis de identidad, 1 Debilidad b\u00e1sica aleatoria."
+                    ],
+                    [
+                        "<b>Restricciones de creaci\u00f3n de mazos:</b>",
+                        "Tu mazo debe incluir al menos 3 clases distintas y 7 cartas de cada una de esas clases (<survivor>, <guardian>, <seeker>, <rogue>, o <mystic>)."
+                    ],
+                    [
+                        "<b>Preparaci\u00f3n adicional:</b>",
+                        "Despu\u00e9s de que robes tu mano inicial:\u00a0Elige un papel (<survivor>, <guardian>, <seeker>, <rogue>, <mystic>, o neutral)."
+                    ]
+                ],
+                "flavor_text": "Lola ha actuado en recintos llenos hasta la bandera de todo el mundo, pero ninguna obra ha sido tan perturbadora y extra\u00f1a como El Rey de Amarillo. Todo lo que la rodea tra\u00eda calamidades y terror, incluso durante los ensayos. Cuando encontraron a M\u00edriam, su coprotagonista, flotando muerta en el Sena, Lola decidi\u00f3 que ya hab\u00eda tenido suficiente y le escribi\u00f3 una carta al director explic\u00e1ndole que la pr\u00f3xima actuaci\u00f3n ser\u00eda la \u00faltima en la que ella tomar\u00eda parte. Ahora vuelve a casa, a Arkham, para un \u00faltimo espect\u00e1culo, con la esperanza de poder librarse por fin de esta temible obra.",
+                "text": "<b>Tama\u00f1o de mazo:</b> 35.\n<b>Opciones de creaci\u00f3n de mazos:</b> Cartas Superviviente, Guardi\u00e1n, Buscador, Rebelde y M\u00edstico (<survivor>, <guardian>, <seeker>, <rogue>, y <mystic>) de nivel 0-3, cartas neutrales de nivel 0-5.\n<b>Requisitos de creaci\u00f3n de mazos</b> (no cuentan para el tama\u00f1o de mazo): 2 copias de Improvisaci\u00f3n, 2 copias de Crisis de identidad, 1 Debilidad b\u00e1sica aleatoria.\n<b>Restricciones de creaci\u00f3n de mazos:</b> Tu mazo debe incluir al menos 3 clases distintas y 7 cartas de cada una de esas clases (<survivor>, <guardian>, <seeker>, <rogue>, o <mystic>).\n<b>Preparaci\u00f3n adicional:</b> Despu\u00e9s de que robes tu mano inicial:\u00a0Elige un papel (<survivor>, <guardian>, <seeker>, <rogue>, <mystic>, o neutral)."
             }
         },
         "03019-t": {
@@ -164,7 +187,7 @@
         "03112-t": {
             "front": {
                 "subtitle": "Reputado escat\u00f3logo",
-                "text": "Mutada. Mientras <name> tenga al menos 1 ficha de Perdici\u00f3n sobre \u00e9l, recibes +1 [willpower].\n<free> Agota a <name>: Puedes colocar 1 ficha de Perdici\u00f3n sobre <name>. Obt\u00e9n 1 recurso por cada ficha de Perdici\u00f3n que haya sobre <name> (hasta un m\u00e1ximo de 3).",
+                "text": "Mutada. Mientras <name> tenga al menos 1 ficha de Perdici\u00f3n sobre \u00e9l, recibes +1 [willpower].\n<free> Agota a <name>: Puedes colocar 1 ficha de Perdici\u00f3n sobre <name>. Obt\u00e9n 1 recurso por cada ficha de Perdici\u00f3n que haya sobre <name> (hasta un m\u00e1ximo de 3 recursos).",
                 "traits": "Aliado. Mecenas."
             }
         },
@@ -202,7 +225,7 @@
         "04233-t": {
             "name": "D\u00eda de cobro",
             "front": {
-                "text": "Mutada. Obt\u00e9n 1 recurso por cada acci\u00f3n que hayas gastado en este turno <i>(incluida \u00e9sta)</i>. Si es tu turno, termina tu turno.",
+                "text": "Mutada. \nObt\u00e9n 1 recurso por cada acci\u00f3n que hayas gastado en este turno <i>(incluida \u00e9sta)</i>. Si es tu turno, termina tu turno.",
                 "traits": "Ilegal. Predestinado."
             }
         },
@@ -254,7 +277,7 @@
         "05156-t": {
             "name": "Reflejos r\u00e1pidos",
             "front": {
-                "text": "Mutada. R\u00e1pido. Juega esta carta durante el turno de cualquier investigador, excepto durante una acci\u00f3n.\nRealiza una acci\u00f3n inmediatamente como si fuera tu turno. Esta acci\u00f3n no cuenta para el n\u00famero de acciones que puedes realizar cada turno. M\u00e1ximo de dos veces por ronda.",
+                "text": "Mutada. R\u00e1pido. Juega esta carta durante el turno de cualquier investigador, excepto durante una acci\u00f3n.\nRealiza una acci\u00f3n inmediatamente como si fuera tu turno. Esta acci\u00f3n no cuenta para el n\u00famero de acciones que puedes realizar cada turno. L\u00edmite de dos veces por ronda.",
                 "traits": "Gambito."
             }
         },
@@ -304,7 +327,7 @@
         "05321-t": {
             "name": "Ajar",
             "front": {
-                "text": "Mutada.\n<action>: <b>Combatir</b>. Este ataque usa [willpower] en lugar de [combat]. Recibes +2 [willpower] para este ataque. Si se revela una ficha de s\u00edmbolo durante este ataque, el Enemigo atacado recibe -1 a combate, -1 de salud y -1 a evitar durante el resto del turno (hasta un m\u00ednimo de 1).",
+                "text": "Mutada.\n<action>: <b>Combatir</b>. Este ataque usa [willpower] en lugar de [combat]. Recibes +2 [willpower] para este ataque. Si se revela una ficha de s\u00edmbolo durante este ataque, el Enemigo atacado recibe -1 a combate, -1 de salud y -1 a evitar hasta el final de la fase (hasta un m\u00ednimo de 1).",
                 "traits": "Hechizo."
             }
         },
@@ -318,11 +341,30 @@
         "06002-t": {
             "front": {
                 "subtitle": "La investigadora",
-                "text": "<reaction> Cuando un investigador que est\u00e9 en tu Lugar fuese a buscar en su mazo o en el mazo de Encuentros: Ese investigador puede buscar entre 3 cartas adicionales o bien resolver 1 objetivo adicional de la b\u00fasqueda. L\u00edmite de una vez por ronda.\nEfecto <elder_sign>: +0. Busca una carta entre las 3 primeras cartas de tu mazo y r\u00f3bala o bien as\u00edgnala a esta prueba si es posible. Baraja tu mazo.",
+                "text": "Mutada.\n<reaction> Cuando un investigador que est\u00e9 en tu Lugar fuese a buscar en su mazo o en el mazo de Encuentros: Ese investigador puede buscar entre 3 cartas adicionales o bien resolver 1 objetivo adicional de la b\u00fasqueda. L\u00edmite de una vez por ronda.\nEfecto <elder_sign>: +0. Busca una carta entre las 3 primeras cartas de tu mazo y r\u00f3bala o bien as\u00edgnala a esta prueba si es posible. Baraja tu mazo.",
                 "traits": "Ayudante. Erudito."
             },
             "back": {
-                "flavor_text": "Desde ni\u00f1a, Mandy se pon\u00eda a leer siempre que no pod\u00eda dormir. Lo cual ocurr\u00eda muchas noches. Su impresionante memoria y su capacidad para relacionar datos le consiguieron un reputado puesto como investigadora en la Universidad Miskatonic. Se ha pasado horas escudri\u00f1ando las profanas p\u00e1ginas de antiguos textos prohibidos. Al hacerlo, ha descubierto un patr\u00f3n que indica que se avecina un cataclismo. \u00bfEst\u00e1 empezando a sufrir de paranoia? \u00bfO realmente est\u00e1 pr\u00f3ximo un desastre de proporciones \u00e9picas?"
+                "entries": [
+                    [
+                        "<b>Tama\u00f1o de mazo:</b>",
+                        "50."
+                    ],
+                    [
+                        "<b>Elecci\u00f3n de clase secundaria:</b>",
+                        "Elige entre M\u00edstico (<mystic>), Rebelde (<rogue>) or Superviviente (<survivor>) al crear el mazo."
+                    ],
+                    [
+                        "<b>Opciones de creaci\u00f3n de mazos:</b>",
+                        "Cartas Buscador (<seeker>) de nivel 0\u20135, cartas neutrales de nivel 0\u20135, hasta 10 Eventos y/o Habilidades de nivel 0\u20131 de la clase secundaria elegida."
+                    ],
+                    [
+                        "<b>Requisitos de creaci\u00f3n de mazos</b> (no cuentan para el tama\u00f1o de mazo):",
+                        "3 copias de Prueba de ocultismo, Descubrimiento impactante, 1 Debilidad b\u00e1sica aleatoria."
+                    ]
+                ],
+                "flavor_text": "Desde ni\u00f1a, Mandy se pon\u00eda a leer siempre que no pod\u00eda dormir. Lo cual ocurr\u00eda muchas noches. Su impresionante memoria y su capacidad para relacionar datos le consiguieron un reputado puesto como investigadora en la Universidad Miskatonic. Se ha pasado horas escudri\u00f1ando las profanas p\u00e1ginas de antiguos textos prohibidos. Al hacerlo, ha descubierto un patr\u00f3n que indica que se avecina un cataclismo. \u00bfEst\u00e1 empezando a sufrir de paranoia? \u00bfO realmente est\u00e1 pr\u00f3ximo un desastre de proporciones \u00e9picas?",
+                "text": "<b>Tama\u00f1o de mazo:</b> 50.\n<b>Elecci\u00f3n de clase secundaria:</b> Elige entre M\u00edstico (<mystic>), Rebelde (<rogue>) or Superviviente (<survivor>) al crear el mazo.\n<b>Opciones de creaci\u00f3n de mazos:</b> Cartas Buscador (<seeker>) de nivel 0\u20135, cartas neutrales de nivel 0\u20135, hasta 10 Eventos y/o Habilidades de nivel 0\u20131 de la clase secundaria elegida.\n<b>Requisitos de creaci\u00f3n de mazos</b> (no cuentan para el tama\u00f1o de mazo): 3 copias de Prueba de ocultismo, Descubrimiento impactante, 1 Debilidad b\u00e1sica aleatoria."
             }
         },
         "06022-t": {
@@ -361,13 +403,28 @@
                 "traits": "Agencia. Detective."
             },
             "back": {
-                "flavor_text": "Trish siempre destac\u00f3 tanto f\u00edsica como mentalmente, pues su f\u00e9rrea voluntad por alcanzar la excelencia y su intr\u00e9pida disposici\u00f3n constituyen una combinaci\u00f3n imbatible. Gracias a su impresionante historial acad\u00e9mico y deportivo, todo el mundo esperaba que aspirase a un puesto de \u00e9xito. Sin embargo, Trish acept\u00f3 un puesto en una empresa de c\u00f3digo de comercio. Cuando el asombro inicial ante un trabajo tan humilde acab\u00f3 por pasar, la excepcional Trish Scarborough qued\u00f3 en el olvido. Esto era lo m\u00e1s conveniente para Trish, pues hac\u00eda que fuera m\u00e1s dif\u00edcil que alguien descubriera la verdad: su trabajo era una tapadera para su verdadero puesto como esp\u00eda para la C\u00e1mara Negra, la agencia encargada del descifrado de c\u00f3digos."
+                "entries": [
+                    [
+                        "<b>Tama\u00f1o de mazo:</b>",
+                        "30."
+                    ],
+                    [
+                        "<b>Opciones de creaci\u00f3n de mazos:</b>",
+                        "Cartas Rebelde (<rogue>) de nivel 0-5, cartas neutrales de nivel 0-5, cartas Buscador (<seeker>) de nivel 0-2."
+                    ],
+                    [
+                        "<b>Requisitos de creaci\u00f3n de mazos</b> (no cuentan para el tama\u00f1o de mazo):",
+                        "En las sombras, Agentes encubiertos, 1 Debilidad b\u00e1sica aleatoria."
+                    ]
+                ],
+                "flavor_text": "Trish siempre destac\u00f3 tanto f\u00edsica como mentalmente, pues su f\u00e9rrea voluntad por alcanzar la excelencia y su intr\u00e9pida disposici\u00f3n constituyen una combinaci\u00f3n imbatible. Gracias a su impresionante historial acad\u00e9mico y deportivo, todo el mundo esperaba que aspirase a un puesto de \u00e9xito. Sin embargo, Trish acept\u00f3 un puesto en una empresa de c\u00f3digo de comercio. Cuando el asombro inicial ante un trabajo tan humilde acab\u00f3 por pasar, la excepcional Trish Scarborough qued\u00f3 en el olvido. Esto era lo m\u00e1s conveniente para Trish, pues hac\u00eda que fuera m\u00e1s dif\u00edcil que alguien descubriera la verdad: su trabajo era una tapadera para su verdadero puesto como esp\u00eda para la C\u00e1mara Negra, la agencia encargada del descifrado de c\u00f3digos.",
+                "text": "<b>Tama\u00f1o de mazo:</b> 30.\n<b>Opciones de creaci\u00f3n de mazos:</b> Cartas Rebelde (<rogue>) de nivel 0-5, cartas neutrales de nivel 0-5, cartas Buscador (<seeker>) de nivel 0-2.\n<b>Requisitos de creaci\u00f3n de mazos</b> (no cuentan para el tama\u00f1o de mazo): En las sombras, Agentes encubiertos, 1 Debilidad b\u00e1sica aleatoria."
             }
         },
         "07122-t": {
             "name": "Acuerdo antiguo",
             "front": {
-                "text": "Mutada. Permanente. L\u00edmite de 1 Acuerdo por mazo.\n<reaction> Cuando resuelvas una ficha <blessing> durante una prueba de habilidad, agota el <name>: No reveles otra ficha como parte del efecto de esta ficha <blessing>.",
+                "text": "Mutada. Permanente. L\u00edmite de 1 <t>Acuerdo</t> por mazo.\n<reaction> Cuando resuelvas una ficha <blessing> durante una prueba de habilidad, agota el <name>: No reveles otra ficha como parte del efecto de esta ficha <blessing>.",
                 "traits": "Acuerdo. Bendecido."
             }
         },
@@ -410,7 +467,7 @@
         "08019-t": {
             "name": "Pertrechado",
             "front": {
-                "text": "Mutada. Permanente. L\u00edmite de 1 por mazo. Compra esta carta al crear el mazo.\n<b>Obligado</b> - Cuando comience tu primer turno de la partida: Juega hasta 5 Apoyos <t>Objeto</t> de tu mano, de uno en uno, reduciendo en 1 el coste de cada uno. Durante este turno, tienes 3 acciones menos para realizar.",
+                "text": "Mutada. Permanente. L\u00edmite de 1 por mazo. Compra esta carta al crear el mazo.\n<for> Cuando comience tu primer turno de la partida: De uno en uno, juega hasta 5 Apoyos <t>Objeto</t> de tu mano, reduciendo en 1 el coste de cada uno. Durante este turno, tienes 3 acciones menos para realizar.",
                 "traits": "Talento."
             }
         },
@@ -424,7 +481,7 @@
         "08045-t": {
             "front": {
                 "subtitle": "Atlas de lo incognoscible",
-                "text": "Mutada.\nMientras no est\u00e9s en el centro neur\u00e1lgico, recibes +1 [intellect] y +1 [agility] e ignoras el primer ataque de oportunidad que recibas cada turno.\n<reaction> Despu\u00e9s de que la <name> entre en juego: Elige un Lugar revelado. Ese Lugar es \u201cel centro neur\u00e1lgico\u201d hasta que la <name> abandone el juego.\n<action>: Mueve cualquier investigador al centro neur\u00e1lgico.",
+                "text": "Mutada.\nMientras no est\u00e9s en el centro neur\u00e1lgico, recibes +1 [intellect], +1 [agility] e ignoras el primer ataque de oportunidad que recibas en este turno.\n<reaction> Despu\u00e9s de que la <name> entre en juego: Elige un Lugar revelado. Ese Lugar es \u201cel centro neur\u00e1lgico\u201d hasta que la <name> abandone el juego.\n<action>: Mueve cualquier investigador al centro neur\u00e1lgico.",
                 "traits": "Objeto. Reliquia. Tomo."
             }
         },
@@ -437,14 +494,14 @@
         "08076-t": {
             "name": "Quemar despu\u00e9s de leer",
             "front": {
-                "text": "Prohibida.\nExilia una carta de nivel 0-5 de tu mano. Descubre 2 pistas en tu Lugar. Si la carta exiliada era de nivel 2 o mayor, retira 1 ficha de Perdici\u00f3n del plan en curso. Exilia <name>.\n<b>Carta dise\u00f1ada por El consejo en el exilio en la Gen Con 2020</b>",
+                "text": "Prohibida.\nExilia una carta de nivel 0-5 de tu mano. Descubre 2 pistas en tu Lugar. Si la carta exiliada era de nivel 2 o mayor, retira 1 ficha de Perdici\u00f3n del plan en curso. Exilia <name>.\n<center><b>Carta dise\u00f1ada por El consejo en el exilio en la Gen Con 2020</b>",
                 "traits": "Inspiraci\u00f3n."
             }
         },
         "08093-t": {
             "name": "Martillo cicl\u00f3peo",
             "front": {
-                "text": "Mutada.\n<action>: <b>Combatir.</b> A\u00f1ade tu [willpower] a tu valor de habilidad para este ataque. Infliges +1 de da\u00f1o para este ataque. Si tienes \u00e9xito y el Enemigo no es <t>\u00c9lite</t>, puedes moverlo un Lugar alej\u00e1ndose de ti, o bien puedes agotar el <name> para infligir +2 de da\u00f1o y mover el Enemigo hasta dos Lugares alej\u00e1ndose de ti si tienes \u00e9xito por 3 o m\u00e1s.",
+                "text": "Mutada.\n<action>: <b>Combatir.</b> A\u00f1ade tu [willpower] a tu valor de habilidad para este ataque. Infliges +1 de da\u00f1o para este ataque. Si tienes \u00e9xito y el Enemigo no es <t>\u00c9lite</t>, puedes moverlo un Lugar alej\u00e1ndose de ti, o bien, si tienes \u00e9xito por 3 o m\u00e1s, puedes agotar el <name> para infligir +2 de da\u00f1o y mover el Enemigo hasta dos Lugares alej\u00e1ndose de ti.",
                 "traits": "Objeto. Reliquia. Arma. Cuerpo a cuerpo."
             }
         },
@@ -472,7 +529,7 @@
         "08113-t": {
             "name": "Pr\u00e9stamo sin escr\u00fapulos",
             "front": {
-                "text": "S\u00f3lo para el modo de campa\u00f1a. L\u00edmite de 1 por investigador. No puede abandonar el juego.\n<reaction> Despu\u00e9s de que juegues el <name>: Obt\u00e9n 10 recursos.\n<b>Obligado</b> \u2013 Cuando acabe la partida o seas eliminado, si tienes menos de 10 recursos en tu reserva de recursos: Exilia el <name>.",
+                "text": "S\u00f3lo modo de campa\u00f1a. L\u00edmite de 1 por investigador. No puede abandonar el juego.\n<reaction> Despu\u00e9s de que juegues el <name>: Obt\u00e9n 10 recursos.\n<b>Obligado</b> \u2013 Cuando acabe la partida o seas eliminado, si tienes menos de 10 recursos en tu reserva de recursos: Exilia el <name>.",
                 "traits": "Pacto."
             }
         },
@@ -486,21 +543,21 @@
         "09041-t": {
             "name": "Hip\u00f3tesis emp\u00edrica",
             "front": {
-                "text": "Personalizable. L\u00edmite 1 por investigador.\n<b>Obligado</b> \u2013 Al comienzo de la ronda: Elige uno de los siguientes criterios para esta ronda:\n- Fracasas en una prueba por 2 o m\u00e1s.\n- Tienes \u00e9xito en una prueba por 3 o m\u00e1s.\nCuando se cumpla el criterio escogido, puedes agotar la <name> para a\u00f1adirle una prueba.\n<free> Gasta 1 prueba: Roba 1 carta. L\u00edmite de 2 veces por ronda.",
+                "text": "Personalizable. L\u00edmite 1 por investigador.\n<for> Al comienzo de la ronda: Elige uno de los siguientes criterios para esta ronda:\n- Fracasas en una prueba por 2 o m\u00e1s.\n- Tienes \u00e9xito en una prueba por 3 o m\u00e1s.\nCuando se cumpla el criterio escogido, puedes agotar la <name> para a\u00f1adirle una prueba.\n<free> Gasta 1 prueba: Roba 1 carta. L\u00edmite de dos veces por ronda.",
                 "traits": "Talento. Ciencia."
             }
         },
         "09045-t": {
             "name": "Notas de investigaci\u00f3n",
             "front": {
-                "text": "Mutada.\n<reaction> Despu\u00e9s de que una capacidad de una carta de Jugador coloque 1 o m\u00e1s de tus pistas sobre tu Lugar: Coloca esa misma cantidad de recursos sobre las <name> como pruebas.\n<action>: Realiza una prueba de [intellect] (0). Por cada punto que tengas por encima del valor m\u00ednimo de \u00e9xito, puedes gastar 1 prueba para descubrir 1 pista en tu Lugar. M\u00e1ximo de 3 pruebas gastadas por ronda.",
+                "text": "Mutada.\n<reaction> Despu\u00e9s de que una capacidad de una carta de Jugador coloque 1 o m\u00e1s de tus pistas sobre tu Lugar: Coloca esa misma cantidad de recursos sobre las <name> como pruebas.\n<action>: Realiza una prueba de [intellect] (0). Por cada punto que tengas por encima del valor m\u00ednimo de \u00e9xito, puedes gastar 1 prueba para descubrir 1 pista en tu Lugar (m\u00e1ximo 3 pruebas gastadas por ronda).",
                 "traits": "Objeto. Tomo. Ciencia."
             }
         },
         "09072-t": {
             "front": {
                 "subtitle": "Conductor de O'Bannion",
-                "text": "Mutada. <reaction> Cuando juegues un Evento <t>T\u00e1ctica</t> o <t>Truco</t>, agota a <name>: Elige una opci\u00f3n -\n- Ese Evento obtiene: \u201cR\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\u201d\n- Ese Evento cuesta 2 recursos menos para jugarlo.\n- Recibes +2 a tu valor de habilidad al realizar una prueba de habilidad durante la resoluci\u00f3n de ese Evento.",
+                "text": "Mutada. <reaction> Cuando juegues un Evento <t>T\u00e1ctica</t> o <t>Truco</t>, agota a <name>: Elige una opci\u00f3n -\n- Ese Evento obtiene: \u201cR\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\u201d.\n- Ese Evento cuesta 2 recursos menos para jugarlo.\n- Recibes +2 a tu valor de habilidad al realizar una prueba de habilidad durante la resoluci\u00f3n de ese Evento.",
                 "traits": "Aliado. Criminal."
             }
         },
@@ -514,7 +571,7 @@
         "09081-t": {
             "name": "Palabra de poder",
             "front": {
-                "text": "Mutada. Personalizable. R\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\nVincula esta carta a un Enemigo que no sea <t>\u00c9lite</t> que est\u00e9 en tu Lugar.\n<action> Si el Enemigo vinculado est\u00e1 en tu Lugar: <b>Negociar</b>. Realiza una prueba de [willpower] (2). Si tienes \u00e9xito, dale una orden (l\u00edmite de una vez por ronda y por orden)\n\u2013 \u201cVete\u201d. Este Enemigo se mueve una vez en una direcci\u00f3n de tu elecci\u00f3n.\".",
+                "text": "Mutada. Personalizable. R\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\nVincula esta carta a un Enemigo que no sea <t>\u00c9lite</t> que est\u00e9 en tu Lugar.\n<action> Si el Enemigo vinculado est\u00e1 en tu Lugar: <b>Negociar</b>. Realiza una prueba de [willpower] (2). Si tienes \u00e9xito, dale una orden (l\u00edmite de una vez por ronda y por orden) - \n- <i>\u201cVete\u201d</i>. Este Enemigo se mueve una vez en una direcci\u00f3n de tu elecci\u00f3n.",
                 "traits": "Hechizo."
             }
         },
@@ -536,7 +593,7 @@
             "name": "A punta de pistola",
             "front": {
                 "flavor_text": "\"\u00a1L-las manos donde pueda verlas!\"",
-                "text": "Mutada.\n<b>Negociar</b>. Elige un Enemigo que est\u00e9 en tu Lugar y un Apoyo <t>Objeto</t> de tu mano. Realiza una acci\u00f3n de combatir contra el Enemigo elegido. Si tienes \u00e9xito, juega el Apoyo elegido, reduciendo su coste por cada punto que tuvieras por encima del valor m\u00ednimo de \u00e9xito.",
+                "text": "Mutada.\n<b>Negociar</b>. Elige un Enemigo que est\u00e9 en tu Lugar y un Apoyo <t>Objeto</t> de tu mano. Realiza una acci\u00f3n de combatir contra el Enemigo elegido. Si tienes \u00e9xito, juega el Apoyo elegido, reduciendo su coste en la cantidad de puntos que tuvieras por encima del valor m\u00ednimo de \u00e9xito.",
                 "traits": "T\u00e1ctica. Truco."
             }
         },
@@ -613,14 +670,14 @@
             "name": "Sangre de Thoth",
             "front": {
                 "subtitle": "Ley encarnada",
-                "text": "Mutada.\n<reaction> Cuando se coloque perdici\u00f3n en una carta que controles: Coloca 1 recurso en esta carta <i>(de la reserva de fichas)</i>, como ofrenda.\n<free> Durante la fase de investigaci\u00f3n, excepto durante una acci\u00f3n, retira 2 ofrendas y agota la <name>: Elige un investigador que est\u00e9 en tu Lugar para que realice una acci\u00f3n inmediatamente como si fuera su turno.",
+                "text": "Mutada.\n<reaction> Cuando se coloque perdici\u00f3n en una carta que controles: Coloca 1 recurso <i>(de la reserva de fichas)</i> en la Sangre de Thoth, como ofrenda.\n<free> Durante la fase de investigaci\u00f3n, excepto durante una acci\u00f3n, gasta 2 ofrendas y agota la <name>: Elige un investigador que est\u00e9 en tu Lugar para que realice una acci\u00f3n inmediatamente como si fuera su turno.",
                 "traits": "Objeto. Reliquia."
             }
         },
         "11071-t": {
             "name": "Escudo espectral",
             "front": {
-                "text": "Mutada. R\u00e1pido. Juega esta carta s\u00f3lo durante tu turno. Vincula esta carta a una carta de Jugador que tenga salud y/o cordura y que est\u00e9 en tu Lugar.\n<b>Obligado</b> \u2013 La primera vez que la carta vinculada recibe 1 o m\u00e1s puntos de da\u00f1o/horror en cada ronda: Cancela 1 punto de ese da\u00f1o/horror. El propietario del <name> debe retirar 1 carga de un Apoyo que controle. Si no puede, descarta el <name>.",
+                "text": "Mutada. R\u00e1pido. Juega esta carta s\u00f3lo durante tu turno. Vincula esta carta a una carta de Jugador que tenga salud y/o cordura y que est\u00e9 en tu Lugar.\n<for> La primera vez que la carta vinculada reciba 1 o m\u00e1s puntos de da\u00f1o/horror en cada ronda: Cancela 1 punto de ese da\u00f1o/horror. El propietario del <name> debe retirar 1 carga de un Apoyo que controle. Si no puede, descarta el <name>.",
                 "traits": "Hechizo. Esp\u00edritu."
             }
         },
@@ -641,7 +698,7 @@
         "11118-t": {
             "name": "Pase de biblioteca",
             "front": {
-                "text": "Mutada. S\u00f3lo para un mazo <t>Miskatonic</t>, <t>Erudito</t>. Permanente. L\u00edmite de 1 por mazo.\n<free> Durante tu turno, si no hay ning\u00fan Apoyo vinculado al <name>, agota el <name>: Vincula un Apoyo Tomo de tu mano al <name>. El Apoyo vinculado no ocupa espacios.\n\n<b>Obligado</b> \u2013 Cuando acabe tu turno: Coloca el Apoyo vinculado en la parte inferior de tu mazo a menos que gastes 1 recurso.",
+                "text": "Mutada. S\u00f3lo para un mazo <t>Miskatonic</t>, <t>Erudito</t>. Permanente. L\u00edmite de 1 por mazo.\n<free> Durante tu turno, si no hay ning\u00fan Apoyo vinculado al <name>, agota el <name>: Vincula un Apoyo Tomo de tu mano al <name>. El Apoyo vinculado no ocupa espacios.\n<for> Cuando acabe tu turno: Coloca el Apoyo vinculado en la parte inferior de tu mazo a menos que gastes 1 recurso.",
                 "traits": "Objeto. Miskatonic."
             }
         },
@@ -664,7 +721,7 @@
             "name": "Temerario",
             "front": {
                 "flavor_text": "\u2014\u00a1Wini, est\u00e1s como una cabra!\n\u2014\u00a1Lo s\u00e9! \u00bfNo es maravilloso?",
-                "text": "Mutada.\nDespu\u00e9s de que asignes <name> a una prueba de habilidad, descarta cartas de la parte superior de tu mazo hasta que descartes una Habilidad <rogue> que puedas asignar a esta prueba. As\u00edgnala. Despu\u00e9s de que se resuelva esta prueba de habilidad, roba todas las Debilidades descartadas por este efecto.",
+                "text": "Mutada. Despu\u00e9s de que asignes <name> a una prueba de habilidad, descarta cartas de la parte superior de tu mazo hasta que descartes una Habilidad <rogue> que puedas asignar a esta prueba. As\u00edgnala. Despu\u00e9s de que se resuelva esta prueba de habilidad, roba todas las Debilidades descartadas por este efecto.",
                 "traits": "Fortuna. Experimentado."
             }
         },
@@ -678,7 +735,7 @@
         "60332-t": {
             "front": {
                 "subtitle": "Conductor de O'Bannion",
-                "text": "Mutada. <reaction> Cuando juegues un Evento T\u00e1ctica o Truco, agota a <name> y elige dos opciones:\n- Ese Evento obtiene: \u201cR\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\u201d\n- Ese Evento cuesta 2 recursos menos para jugarlo.\n- Recibes +2 a tu valor de habilidad al realizar una prueba de habilidad durante la resoluci\u00f3n de ese Evento.",
+                "text": "Mutada. <reaction> Cuando juegues un Evento <t>T\u00e1ctica</t> o <t>Truco</t>, agota a <name> y elige dos opciones:\n- Ese Evento obtiene: \u201cR\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\u201d.\n- Ese Evento cuesta 2 recursos menos para jugarlo.\n- Recibes +2 a tu valor de habilidad al realizar una prueba de habilidad durante la resoluci\u00f3n de ese Evento.",
                 "traits": "Aliado. Criminal."
             }
         },
