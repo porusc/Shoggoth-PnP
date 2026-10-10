@@ -29,6 +29,28 @@
                 "subtitle": "El reportero",
                 "text": "Mutada.\n<reaction> Despu\u00e9s de que tengas \u00e9xito en una prueba de habilidad por 2 o m\u00e1s al investigar: Descubre 1 pista en tu Lugar. L\u00edmite de una vez por ronda.\nEfecto<elder_sign>: +2. En lugar de eso, puedes elegir fracasar autom\u00e1ticamente en esta prueba de habilidad para robar 3 cartas.",
                 "traits": "Reportero."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Tama\u00f1o de mazo:</b>",
+                        "30."
+                    ],
+                    [
+                        "<b>Opciones de creaci\u00f3n de mazos:</b>",
+                        "Cartas Buscador (<seeker>) de nivel 0-5, cartas neutrales de nivel 0-5, hasta otras cinco cartas de nivel 0 de cualquier otra clase (<guardian>, <rogue>, <mystic> y/o <survivor>)."
+                    ],
+                    [
+                        "<b>Requisitos de creaci\u00f3n de mazos</b> (no cuentan para el tama\u00f1o de mazo):",
+                        "Buscar la verdad, La maldici\u00f3n de Rex, 1 Debilidad b\u00e1sica aleatoria."
+                    ],
+                    [
+                        "<b>Restricciones de creaci\u00f3n de mazos:</b>",
+                        "Sin cartas <t>Fortuna</t>."
+                    ]
+                ],
+                "flavor_text": "Cuando ocurre un desastre, <name> suele encontrarse cerca, sufriendo las consecuencias. Tras pasar un d\u00eda con Rex, hasta el esc\u00e9ptico m\u00e1s empedernido admitir\u00e1 que ese hombre est\u00e1 maldito. Cada vez que tiene una pista para conseguir una buena historia, algo va mal. Las fotograf\u00edas de ese asunto de Innsmouth que se fueron volando hacia el mar. Los rastros que borr\u00f3 la lluvia en Dunwich justo antes de que llevara el sheriff hasta ellos. Su mala suerte lo ha expuesto en m\u00e1s de una ocasi\u00f3n a horripilantes bestias y conspiraciones ocultistas. Para sobrevivir, Rex ha desarrollado una mente inquisitiva que le permite ir un paso por delante del pr\u00f3ximo desastre.",
+                "text": "<b>Tama\u00f1o de mazo:</b> 30.\n<b>Opciones de creaci\u00f3n de mazos:</b> Cartas Buscador (<seeker>) de nivel 0-5, cartas neutrales de nivel 0-5, hasta otras cinco cartas de nivel 0 de cualquier otra clase (<guardian>, <rogue>, <mystic> y/o <survivor>).\n<b>Requisitos de creaci\u00f3n de mazos</b> (no cuentan para el tama\u00f1o de mazo): Buscar la verdad, La maldici\u00f3n de Rex, 1 Debilidad b\u00e1sica aleatoria.\n<b>Restricciones de creaci\u00f3n de mazos:</b> Sin cartas <t>Fortuna</t>."
             }
         },
         "02026-t": {
