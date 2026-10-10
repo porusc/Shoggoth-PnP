@@ -59,7 +59,8 @@
             "front": {
                 "flavor_text": "Algunas cosas no se pueden olvidar tras haberlas visto.",
                 "text": "Mutada.\nEn el orden de juego, cada investigador roba 1 carta de la parte superior del mazo de Encuentros. A continuaci\u00f3n, a\u00f1ade <name> a la zona de victoria. L\u00edmite de grupo de 2 copias de Ahondar Demasiado en la zona de victoria.",
-                "traits": "Inspiraci\u00f3n."
+                "traits": "Inspiraci\u00f3n.",
+                "victory": "Victoria 1."
             }
         },
         "02153-t": {
@@ -118,6 +119,9 @@
                 "subtitle": "La actriz",
                 "text": "Mutada.\nS\u00f3lo puedes jugar, asignar o activar capacidades de cartas neutrales o de cartas de tu papel.\n<free>: Cambia tu papel. L\u00edmite de una vez por ronda.\n<action>: Cambia tu papel. Esta acci\u00f3n no provoca ataques de oportunidad.\nEfecto <elder_sign>: +2. Puedes cambiar de papel.",
                 "traits": "Artista."
+            },
+            "back": {
+                "flavor_text": "Lola ha actuado en recintos llenos hasta la bandera de todo el mundo, pero ninguna obra ha sido tan perturbadora y extra\u00f1a como El Rey de Amarillo. Todo lo que la rodea tra\u00eda calamidades y terror, incluso durante los ensayos. Cuando encontraron a M\u00edriam, su coprotagonista, flotando muerta en el Sena, Lola decidi\u00f3 que ya hab\u00eda tenido suficiente y le escribi\u00f3 una carta al director explic\u00e1ndole que la pr\u00f3xima actuaci\u00f3n ser\u00eda la \u00faltima en la que ella tomar\u00eda parte. Ahora vuelve a casa, a Arkham, para un \u00faltimo espect\u00e1culo, con la esperanza de poder librarse por fin de esta temible obra."
             }
         },
         "03019-t": {
@@ -271,7 +275,7 @@
             "name": "El conocimiento es poder",
             "front": {
                 "flavor_text": "\u2026y el poder corrompe.",
-                "text": "EncadenadaEl (+2 de experiencia).\nR\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\nElige un Apoyo <t>Tomo</t> o <t>Hechizo</t> que controles, o revela un Apoyo <t>Tomo</t> o <t>Hechizo</t> de tu mano. Resuelve una capacidad <action> o <free> de ese Apoyo, ignorando todos los costes <i>(incluido su coste <action> si lo tiene).</i> A continuaci\u00f3n, si ese Apoyo estaba en tu mano, puedes descartarlo para robar 1 carta.",
+                "text": "Encadenada (+2 de experiencia).\nR\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\nElige un Apoyo <t>Tomo</t> o <t>Hechizo</t> que controles, o revela un Apoyo <t>Tomo</t> o <t>Hechizo</t> de tu mano. Resuelve una capacidad <action> o <free> de ese Apoyo, ignorando todos los costes <i>(incluido su coste <action> si lo tiene).</i> A continuaci\u00f3n, si ese Apoyo estaba en tu mano, puedes descartarlo para robar 1 carta.",
                 "traits": "Inspiraci\u00f3n."
             }
         },
@@ -294,6 +298,9 @@
                 "subtitle": "La investigadora",
                 "text": "<reaction> Cuando un investigador que est\u00e9 en tu Lugar fuese a buscar en su mazo o en el mazo de Encuentros: Ese investigador puede buscar entre 3 cartas adicionales o bien resolver 1 objetivo adicional de la b\u00fasqueda. L\u00edmite de una vez por ronda.\nEfecto <elder_sign>: +0. Busca una carta entre las 3 primeras cartas de tu mazo y r\u00f3bala o bien as\u00edgnala a esta prueba si es posible. Baraja tu mazo.",
                 "traits": "Ayudante. Erudito."
+            },
+            "back": {
+                "flavor_text": "Desde ni\u00f1a, Mandy se pon\u00eda a leer siempre que no pod\u00eda dormir. Lo cual ocurr\u00eda muchas noches. Su impresionante memoria y su capacidad para relacionar datos le consiguieron un reputado puesto como investigadora en la Universidad Miskatonic. Se ha pasado horas escudri\u00f1ando las profanas p\u00e1ginas de antiguos textos prohibidos. Al hacerlo, ha descubierto un patr\u00f3n que indica que se avecina un cataclismo. \u00bfEst\u00e1 empezando a sufrir de paranoia? \u00bfO realmente est\u00e1 pr\u00f3ximo un desastre de proporciones \u00e9picas?"
             }
         },
         "06022-t": {
@@ -330,6 +337,9 @@
                 "subtitle": "La esp\u00eda",
                 "text": "Mutada.\n<reaction> Despu\u00e9s de que descubras 1 o m\u00e1s pistas en un Lugar con un Enemigo: Descubre 1 pista adicional en ese Lugar o bien evita autom\u00e1ticamente a ese Enemigo si no es <t>\u00c9lite</t>. L\u00edmite de una vez por ronda.\nEfecto <elder_sign>: +2. Si es durante una investigaci\u00f3n, puedes elegir cualquier Lugar revelado; ahora est\u00e1s investigando como si estuvieras en ese Lugar en lugar del original.",
                 "traits": "Agencia. Detective."
+            },
+            "back": {
+                "flavor_text": "Trish siempre destac\u00f3 tanto f\u00edsica como mentalmente, pues su f\u00e9rrea voluntad por alcanzar la excelencia y su intr\u00e9pida disposici\u00f3n constituyen una combinaci\u00f3n imbatible. Gracias a su impresionante historial acad\u00e9mico y deportivo, todo el mundo esperaba que aspirase a un puesto de \u00e9xito. Sin embargo, Trish acept\u00f3 un puesto en una empresa de c\u00f3digo de comercio. Cuando el asombro inicial ante un trabajo tan humilde acab\u00f3 por pasar, la excepcional Trish Scarborough qued\u00f3 en el olvido. Esto era lo m\u00e1s conveniente para Trish, pues hac\u00eda que fuera m\u00e1s dif\u00edcil que alguien descubriera la verdad: su trabajo era una tapadera para su verdadero puesto como esp\u00eda para la C\u00e1mara Negra, la agencia encargada del descifrado de c\u00f3digos."
             }
         },
         "07122-t": {
@@ -468,7 +478,7 @@
         "09072-t": {
             "front": {
                 "subtitle": "Conductor de O'Bannion",
-                "text": "Mutated. <reaction> Cuando juegues un Evento <t>T\u00e1ctica</t> o <t>Truco</t>, agota a <name>: Elige una opci\u00f3n -\n- Ese Evento obtiene: \u201cR\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\u201d\n- Ese Evento cuesta 2 recursos menos para jugarlo.\n- Recibes +2 a tu valor de habilidad al realizar una prueba de habilidad durante la resoluci\u00f3n de ese Evento.",
+                "text": "Mutada. <reaction> Cuando juegues un Evento <t>T\u00e1ctica</t> o <t>Truco</t>, agota a <name>: Elige una opci\u00f3n -\n- Ese Evento obtiene: \u201cR\u00e1pido. Juega esta carta s\u00f3lo durante tu turno.\u201d\n- Ese Evento cuesta 2 recursos menos para jugarlo.\n- Recibes +2 a tu valor de habilidad al realizar una prueba de habilidad durante la resoluci\u00f3n de ese Evento.",
                 "traits": "Aliado. Criminal."
             }
         },
@@ -624,6 +634,7 @@
             "name": "El Necronomic\u00f3n",
             "front": {
                 "subtitle": "Traducci\u00f3n de Petrus de Dacia",
+                "text": "Prohibida. Usos (6 secretos). L\u00edmite de 1 por mazo.\n<free> Gasta 1 secreto: Recibes +2 al valor de habilidad para esta prueba de habilidad.\n<free> Gasta 2 secretos: Roba 2 cartas.\n<free> Gasta 3 secretos: Descubre 1 pista en cualquier Lugar.\n<free> Gasta 4 secretos: Inflige 3 puntos de da\u00f1o a un Enemigo enfrentado a ti.",
                 "traits": "Objeto. Tomo."
             }
         },
